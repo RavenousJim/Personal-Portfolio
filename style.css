@@ -1,0 +1,74 @@
+
+body{
+	background: url('http://getwallpapers.com/wallpaper/full/6/9/5/137381.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+
+  
+
+
+}
+h1 {
+	font-size: 70px;
+	color: white;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+
+
+}
+h3 {
+  color: rgb(235, 243, 119);
+  font-size: 35px;
+  text-align: center;
+  
+}
+h4 {
+  font-size: 30px;
+  color: rgba(9, 51, 107, 0.966);
+  font-family: 'Anton', sans-serif;
+}
+
+h8 {
+  font-size: 30px;
+  color: rgba(250, 200, 200, 0.973);
+  font-family: 'Anton', sans-serif;
+  font-style: bold;
+}
+.hand {
+  border-color: black;
+  border-radius: 100%;
+}
+
+button {
+  text-rendering: auto;
+  color: initial;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  margin: 0em;
+  font: 400 11px system-ui;
+  border-width: 20px;
+  padding: 2px 7px 2px;
+  -webkit-box-sizing: content-box;
+  font-size: 20px;
+  background-color: aqua;
+  border-color: rgb(245, 205, 220);
+  
+
+}
+a:-webkit-any-link {
+  color: white;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.i
+{
+  text-align: center;
+}
